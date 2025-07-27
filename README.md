@@ -33,11 +33,12 @@
 
 ## 📊 GitHub Stats
 
-![Quadri's GitHub stats](https://github-readme-stats.vercel.app/api?username=quadriyusuff&show_icons=true&theme=tokyonight&hide_title=true)
+![Quadri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayomidespenz&show_icons=true&theme=tokyonight)
+)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayomidespenz&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quadriyusuff&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=quadriyusuff&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ayomidespenz&theme=tokyonight)
 
 ---
 
@@ -51,7 +52,11 @@
 
 ## 👀 Visitor Count
 
-![Visitors](https://komarev.com/ghpvc/?username=quadriyusuff&style=flat&color=0e75b6)
+![Visitors](https://komarev.com/ghpvc/?username=Ayomidespenz&style=flat&color=0e75b6)
+
+## Activity Graph 
+![Quadri's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayomidespenz&theme=tokyo-night)
+
 
 ---
 

@@ -1,6 +1,6 @@
 # Hi there, I'm Quadri Yusuff 👋
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlignY=40&desc=Web%20Developer%20%7C%20Open%20Source%20Lover%20%7C%20Blockchain%20Learner&descAlignY=60)
+![Banner]([https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlignY=40&desc=Web%20Developer%20%7C%20Open%20Source%20Lover%20%7C%20Blockchain%20Learner&descAlignY=60](https://raw.githubusercontent.com/Ayomidespenz/quadriyusuff/refs/heads/main/IMG-20250603-WA0013.jpg))
 
 <a href="https://github.com/Ayomidespenz">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0e75b6&width=500&lines=Full-stack+Developer;Open+Source+Enthusiast;Learning+Ethereum+Smart+Contracts;Let%27s+Build+Awesome+Things!" />
@@ -14,7 +14,7 @@
 - 🌱 Learning: **PHP**, **MySQL**, **Bootstrap**, **JavaScript**, and **Blockchain**
 - 🧩 Exploring: **Ethereum Smart Contracts** & **Vue 3**
 - 🧠 Mission: Becoming a world-class developer 💯
-- ✉️ Reach me at: [quadriyusuff@gmail.com](mailto:quadriyusuff@gmail.com)
+- ✉️ Reach me at: [quadriyusuff@gmail.com](mailto:quadriyusuff721@gmail.com)
 
 ---
 
@@ -57,10 +57,11 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:quadriyusuff@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/quadri-yusuff-adisa)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/your-twitter](https://x.com/Ayomidespenz?t=F5atuWRImY6kQhTR-F4__w&s=09)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:quadriyusuff721@gmail.com)
 
 ---
 
 ### 💬 “Code like you mean it. Learn like you're lost. Share like you're free.”
+### 💬 “Clean code always looks like it was written by someone who cares !!.”

@@ -1,5 +1,5 @@
 # Hi there, I'm Quadri Yusuff 👋
-<img src="https://raw.githubusercontent.com/Ayomidespenz/quadriyusuff/refs/heads/main/IMG-20250603-WA0013.jpg" width="600" />
+<img src="https://raw.githubusercontent.com/Ayomidespenz/quadriyusuff/refs/heads/main/IMG-20250603-WA0013.jpg" width="600" height="400" border-radius="10px" />
 
 
 <a href="https://github.com/Ayomidespenz">

@@ -1,0 +1,66 @@
+# Hi there, I'm Quadri Yusuff 👋
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlignY=40&desc=Web%20Developer%20%7C%20Open%20Source%20Lover%20%7C%20Blockchain%20Learner&descAlignY=60)
+
+<a href="https://github.com/Ayomidespenz">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0e75b6&width=500&lines=Full-stack+Developer;Open+Source+Enthusiast;Learning+Ethereum+Smart+Contracts;Let%27s+Build+Awesome+Things!" />
+</a>
+
+---
+
+## 🚀 About Me
+
+- 💻 Currently building: **Full-Stack Blog Platform**  
+- 🌱 Learning: **PHP**, **MySQL**, **Bootstrap**, **JavaScript**, and **Blockchain**
+- 🧩 Exploring: **Ethereum Smart Contracts** & **Vue 3**
+- 🧠 Mission: Becoming a world-class developer 💯
+- ✉️ Reach me at: [quadriyusuff@gmail.com](mailto:quadriyusuff@gmail.com)
+
+---
+
+## 🛠️ My Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Quadri's GitHub stats](https://github-readme-stats.vercel.app/api?username=quadriyusuff&show_icons=true&theme=tokyonight&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quadriyusuff&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=quadriyusuff&theme=tokyonight)
+
+---
+
+## 📝 Current Projects
+
+- 🔥 **Blog CMS** — Full-featured blog app with user auth, comments, and admin dashboard  
+- ⚙️ **Ethereum Explorer** — Learn smart contracts by building an Ethereum transaction visualizer  
+- 📦 **File Upload System** — PHP file upload tool with progress bar and database logging
+
+---
+
+## 👀 Visitor Count
+
+![Visitors](https://komarev.com/ghpvc/?username=quadriyusuff&style=flat&color=0e75b6)
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:quadriyusuff@gmail.com)
+
+---
+
+### 💬 “Code like you mean it. Learn like you're lost. Share like you're free.”
